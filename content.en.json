@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "Nawaporn Saengthong — UX Designer & Content Strategist",
+    "lang": "en"
+  },
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "work": "Work",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tag": "UX Designer · Content Strategist · Creative",
+    "name1": "Nawaporn",
+    "name2": "Saengthong",
+    "tagline": "Multi-disciplinary designer who believes words are a core part of great design — blending UX research, visual design, and storytelling into one craft.",
+    "sub": "นวพร แสงทอง — Bangkok, Thailand 🇹🇭",
+    "cta_work": "View My Work",
+    "cta_cv": "Download CV",
+    "stat1_label": "Years Experience",
+    "stat2_label": "Projects",
+    "stat3_label": "Facebook Reach"
+  },
+  "about": {
+    "eyebrow": "About Me",
+    "tools_label": "Tools & Software",
+    "education_label": "Education",
+    "edu1_title": "Google UX Design Certificate",
+    "edu1_sub": "Coursera · 2023",
+    "edu2_title": "B.Sc. Information Technology — GPA 3.90",
+    "edu2_sub": "Bangkok University · 2012–2016",
+    "edu2_badge": "Prakaipetch Scholar",
+    "p1": "Hi, I'm <strong>Nawaporn</strong> — a multi-disciplinary creative based in Bangkok with over <strong>7 years in digital marketing</strong> and a growing passion for UX design.",
+    "p2": "My journey started as a graphic design intern, evolved into content marketing and SEO strategy, and recently expanded into <strong>UX/UI design and UX writing</strong> through the Google UX Design Certificate. Not a pivot — a natural merging of skills, because great user experience requires both clear design <em>and</em> clear language.",
+    "p3": "I believe <strong>words are a big part of design and marketing.</strong> Whether it's a push notification, a wireframe, an article, or a social post — every word shapes how people experience your product."
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "Where I've <em>worked.</em>",
+    "jobs": [
+      {
+        "date": "May 2019 — Present",
+        "role": "Digital Marketing Officer",
+        "company": "one31 Ltd · Bangkok",
+        "bullets": [
+          "Write push notifications for the one31 app — TV programs, PR campaigns, and new articles",
+          "Produce 40+ articles/month: press releases, entertainment news, corporate news",
+          "Achieved <strong>1.1M Facebook reach</strong> across Facebook, Twitter, and YouTube Community",
+          "Research topics and apply SEO best practices to improve article performance and engagement",
+          "Write monthly reports analyzing performance via Google Analytics and Facebook Creator Studio",
+          "Collaborate with software development and mar-com teams on content quality"
+        ]
+      },
+      {
+        "date": "June 2017 — April 2019",
+        "role": "Content Marketing",
+        "company": "BECi Corporation Ltd · Bangkok",
+        "bullets": [
+          "Created engaging copy, image, and video content for social media platforms",
+          "Wrote a wide variety of articles for the company website",
+          "Participated in strategic planning for brand social media presence",
+          "Wrote monthly reports on social media and website performance"
+        ]
+      },
+      {
+        "date": "Jan 2017 — May 2017",
+        "role": "Graphic Design Intern",
+        "company": "BECi Corporation Ltd · Bangkok",
+        "bullets": [
+          "Designed creative concepts for social media and website campaigns",
+          "Collaborated with Senior Graphic Designers on marketing materials"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "What I <em>do.</em>",
+    "sub": "A multi-disciplinary skillset spanning design, research, writing, and strategy.",
+    "items": [
+      {
+        "icon": "🎨",
+        "title": "UX / UI Design",
+        "desc": "Empathy maps, personas, user journeys, wireframes, prototypes, mockups in Figma & Adobe XD. Accessibility-first at every stage."
+      },
+      {
+        "icon": "🔍",
+        "title": "UX Research",
+        "desc": "User interviews, usability studies, competitive audits, Crazy Eights, and How Might We sessions — evidence-based design."
+      },
+      {
+        "icon": "✍️",
+        "title": "UX Writing & Copy",
+        "desc": "Clear, purposeful microcopy — push notifications, error messages, onboarding flows, CTAs, and in-product language."
+      },
+      {
+        "icon": "📈",
+        "title": "SEO & Content Strategy",
+        "desc": "Keyword research, on-page SEO, editorial planning, and performance reporting via Google Analytics."
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Content",
+        "desc": "Multi-platform strategy across Facebook, Twitter, YouTube — trending content, community management, and reach optimization."
+      },
+      {
+        "icon": "🎬",
+        "title": "Video & Graphic Design",
+        "desc": "Adobe Premiere Pro video editing. Campaign and social media visuals with Photoshop and Illustrator."
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "Portfolio",
+    "title": "Selected <em>work.</em>",
+    "sub": "A mix of UX research, product design, content strategy, and creative work.",
+    "filter_all": "All",
+    "filter_ux": "UX / Figma",
+    "filter_content": "Content",
+    "filter_design": "Design",
+    "projects": [
+      {
+        "emoji": "🎧",
+        "thumb_label": "UX Research",
+        "thumb_color": "linear-gradient(135deg,#fde8d4,#f4a46c)",
+        "title": "HearAround App — Case Study",
+        "desc": "End-to-end UX research and design for an audio-based app. User interviews, empathy maps, wireframes, and usability testing.",
+        "tags": ["UX Research", "Figma", "Prototype"],
+        "cat": "ux",
+        "link": "#"
+      },
+      {
+        "emoji": "🍽️",
+        "thumb_label": "Responsive Design",
+        "thumb_color": "linear-gradient(135deg,#d4e8fd,#378add)",
+        "title": "MealFlix — Web & App Design",
+        "desc": "Responsive web and mobile design for a food/streaming platform. Visual hierarchy, typography, and mobile-first layouts.",
+        "tags": ["UI Design", "Figma", "Responsive"],
+        "cat": "ux",
+        "link": "#"
+      },
+      {
+        "emoji": "💬",
+        "thumb_label": "UX Writing",
+        "thumb_color": "linear-gradient(135deg,#e1f5ee,#1d9e75)",
+        "title": "UX Writing Practice",
+        "desc": "UX writing samples — error messages, onboarding copy, tooltips, empty states, and push notifications.",
+        "tags": ["UX Writing", "Microcopy", "Content Design"],
+        "cat": "ux content",
+        "link": "#"
+      },
+      {
+        "emoji": "📰",
+        "thumb_label": "Content",
+        "thumb_color": "linear-gradient(135deg,#fbeaf0,#d4537e)",
+        "title": "Online Article Portfolio",
+        "desc": "SEO-optimized articles across entertainment, lifestyle, and corporate news. Published on one31.net.",
+        "tags": ["SEO", "Copywriting", "Editorial"],
+        "cat": "content",
+        "link": "#"
+      },
+      {
+        "emoji": "📱",
+        "thumb_label": "Social Media",
+        "thumb_color": "linear-gradient(135deg,#eaf3de,#639922)",
+        "title": "Social Media Content",
+        "desc": "Multi-platform strategy across Facebook, Twitter and YouTube — trend-led posts with 1.1M+ reach.",
+        "tags": ["Social Media", "Copywriting", "Strategy"],
+        "cat": "content",
+        "link": "#"
+      },
+      {
+        "emoji": "🔔",
+        "thumb_label": "Push Notifications",
+        "thumb_color": "linear-gradient(135deg,#faeeda,#ef9f27)",
+        "title": "Push Notification Copy",
+        "desc": "High-converting push notification copy for the one31 app — crafted to drive opens for TV programs and campaigns.",
+        "tags": ["UX Writing", "Copywriting", "Push"],
+        "cat": "content",
+        "link": "#"
+      },
+      {
+        "emoji": "🖼️",
+        "thumb_label": "Graphic Design",
+        "thumb_color": "linear-gradient(135deg,#eeedfe,#7f77dd)",
+        "title": "Graphic Design Portfolio",
+        "desc": "Social media graphics, campaign artwork, and brand content using Photoshop and Illustrator.",
+        "tags": ["Photoshop", "Illustrator", "Brand"],
+        "cat": "design",
+        "link": "#"
+      },
+      {
+        "emoji": "🌐",
+        "thumb_label": "CMS",
+        "thumb_color": "linear-gradient(135deg,#f1efe8,#888780)",
+        "title": "Website Content Management",
+        "desc": "End-to-end WordPress content management — publishing, scheduling, and cross-team quality control.",
+        "tags": ["WordPress", "CMS", "Editorial"],
+        "cat": "content",
+        "link": "#"
+      }
+    ]
+  },
+  "certificates": {
+    "eyebrow": "Certificates",
+    "title": "Always <em>learning.</em>",
+    "items": [
+      { "icon": "🎓", "title": "Google UX Design Certificate", "sub": "Coursera · 2023" },
+      { "icon": "📊", "title": "Google Analytics", "sub": "Google · Digital Marketing" },
+      { "icon": "💻", "title": "B.Sc. Information Technology — GPA 3.90", "sub": "Bangkok University · Prakaipetch Scholar" }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Get In Touch",
+    "quote": "Let's build something <em>meaningful</em> together.",
+    "sub": "I'm open to UX design roles, content strategy positions, and creative collaborations. Based in Bangkok — available for remote and on-site opportunities.",
+    "link1_title": "Download Resume",
+    "link1_sub": "Nawapon-Saen_resume2023.pdf",
+    "link2_title": "Email Me",
+    "link2_sub": "Let's start a conversation",
+    "link3_title": "LinkedIn",
+    "link3_sub": "Connect with me"
+  },
+  "footer": {
+    "copy": "© 2024 Nawaporn Saengthong · นวพร แสงทอง",
+    "back_top": "Back to top ↑"
+  }
+}

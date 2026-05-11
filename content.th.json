@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "นวพร แสงทอง — นักออกแบบ UX และนักกลยุทธ์คอนเทนต์",
+    "lang": "th"
+  },
+  "nav": {
+    "about": "เกี่ยวกับ",
+    "experience": "ประสบการณ์",
+    "skills": "ทักษะ",
+    "work": "ผลงาน",
+    "contact": "ติดต่อ"
+  },
+  "hero": {
+    "tag": "นักออกแบบ UX · นักกลยุทธ์คอนเทนต์ · ครีเอทีฟ",
+    "name1": "Nawaporn",
+    "name2": "Saengthong",
+    "tagline": "นักออกแบบ Multi-disciplinary ที่เชื่อว่าคำพูดเป็นส่วนสำคัญของการออกแบบที่ดี ผสมผสาน UX Research, Visual Design และการเล่าเรื่องไว้ในงานเดียวกัน",
+    "sub": "Nawaporn Saengthong — กรุงเทพมหานคร ประเทศไทย 🇹🇭",
+    "cta_work": "ดูผลงาน",
+    "cta_cv": "ดาวน์โหลด CV",
+    "stat1_label": "ปีประสบการณ์",
+    "stat2_label": "ผลงาน",
+    "stat3_label": "Facebook Reach"
+  },
+  "about": {
+    "eyebrow": "เกี่ยวกับฉัน",
+    "tools_label": "เครื่องมือที่ใช้",
+    "education_label": "การศึกษา",
+    "edu1_title": "Google UX Design Certificate",
+    "edu1_sub": "Coursera · 2023",
+    "edu2_title": "วท.บ. เทคโนโลยีสารสนเทศ — เกรดเฉลี่ย 3.90",
+    "edu2_sub": "มหาวิทยาลัยกรุงเทพ · 2555–2559",
+    "edu2_badge": "ทุนประกายเพชร",
+    "p1": "สวัสดีค่ะ ฉันชื่อ <strong>นวพร</strong> — นักสร้างสรรค์ Multi-disciplinary จากกรุงเทพฯ ที่มีประสบการณ์กว่า <strong>7 ปีด้านการตลาดดิจิทัล</strong> และความหลงใหลใน UX Design ที่เติบโตขึ้นเรื่อยๆ",
+    "p2": "เส้นทางของฉันเริ่มจากการฝึกงาน Graphic Design พัฒนาสู่ Content Marketing และ SEO และล่าสุดขยายสู่ <strong>UX/UI Design และ UX Writing</strong> ผ่าน Google UX Design Certificate ไม่ใช่การเปลี่ยนสาย แต่คือการรวมทักษะที่เชื่อมกันอย่างธรรมชาติ",
+    "p3": "ฉันเชื่อว่า <strong>คำพูดเป็นส่วนสำคัญของการออกแบบ</strong> ไม่ว่าจะเป็น Push Notification, Wireframe, บทความ หรือโพสต์โซเชียล ทุกคำมีผลต่อการรับรู้ของผู้ใช้"
+  },
+  "experience": {
+    "eyebrow": "ประสบการณ์ทำงาน",
+    "title": "ที่ที่ฉัน<em>ทำงาน</em>",
+    "jobs": [
+      {
+        "date": "พฤษภาคม 2562 — ปัจจุบัน",
+        "role": "เจ้าหน้าที่การตลาดดิจิทัล",
+        "company": "one31 Ltd · Bangkok",
+        "bullets": [
+          "เขียน Push Notification สำหรับแอป one31 เพื่อโปรโมทรายการทีวี แคมเปญ PR และบทความใหม่",
+          "ผลิต 40+ บทความ/เดือน ครอบคลุมข่าวบันเทิง, ข่าวองค์กร และ Press Release",
+          "บรรลุ <strong>ยอด Reach 1.1 ล้าน</strong> บน Facebook, Twitter และ YouTube Community",
+          "วิจัยหัวข้อและใช้ SEO Best Practices เพื่อพัฒนาประสิทธิภาพบทความ",
+          "จัดทำรายงานรายเดือนจาก Google Analytics และ Facebook Creator Studio",
+          "ประสานงานกับทีม Software Development และ Mar-com เพื่อคุณภาพเนื้อหา"
+        ]
+      },
+      {
+        "date": "มิถุนายน 2560 — เมษายน 2562",
+        "role": "Content Marketing",
+        "company": "BECi Corporation Ltd · Bangkok",
+        "bullets": [
+          "สร้างคอนเทนต์ ทั้งข้อความ รูปภาพ และวิดีโอสำหรับโซเชียลมีเดีย",
+          "เขียนบทความหลากหลายรูปแบบสำหรับเว็บไซต์บริษัท",
+          "ร่วมวางแผนกลยุทธ์โซเชียลมีเดียของแบรนด์",
+          "จัดทำรายงานประสิทธิภาพโซเชียลมีเดียและเว็บไซต์รายเดือน"
+        ]
+      },
+      {
+        "date": "มกราคม 2560 — พฤษภาคม 2560",
+        "role": "นักศึกษาฝึกงาน กราฟิกดีไซน์",
+        "company": "BECi Corporation Ltd · Bangkok",
+        "bullets": [
+          "ออกแบบ Creative Concepts สำหรับแคมเปญโซเชียลมีเดียและเว็บไซต์",
+          "ทำงานร่วมกับ Senior Graphic Designer ในการผลิตสื่อการตลาด"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "ทักษะ",
+    "title": "สิ่งที่ฉัน<em>ทำได้</em>",
+    "sub": "ทักษะแบบ Multi-disciplinary ครอบคลุมงานดีไซน์ วิจัย การเขียน และกลยุทธ์",
+    "items": [
+      {
+        "icon": "🎨",
+        "title": "UX / UI Design",
+        "desc": "Empathy Map, Persona, User Journey, Wireframe, Prototype และ Mockup ด้วย Figma และ Adobe XD คำนึงถึง Accessibility ทุกขั้นตอน"
+      },
+      {
+        "icon": "🔍",
+        "title": "UX Research",
+        "desc": "สัมภาษณ์ผู้ใช้, Usability Testing, Competitive Audit, Crazy Eights, How Might We — การออกแบบที่อิงข้อมูลจริง"
+      },
+      {
+        "icon": "✍️",
+        "title": "UX Writing & Copy",
+        "desc": "เขียน Microcopy ที่ชัดเจน — Push Notification, Error Message, Onboarding, CTA และภาษาในผลิตภัณฑ์"
+      },
+      {
+        "icon": "📈",
+        "title": "SEO & Content Strategy",
+        "desc": "วิจัยคีย์เวิร์ด, On-page SEO, วางแผนคอนเทนต์ และรายงานประสิทธิภาพผ่าน Google Analytics"
+      },
+      {
+        "icon": "📱",
+        "title": "คอนเทนต์โซเชียลมีเดีย",
+        "desc": "กลยุทธ์หลายแพลตฟอร์ม Facebook, Twitter, YouTube — คอนเทนต์ตาม Trend, ดูแลชุมชน และเพิ่ม Reach"
+      },
+      {
+        "icon": "🎬",
+        "title": "วิดีโอและกราฟิกดีไซน์",
+        "desc": "ตัดต่อวิดีโอด้วย Premiere Pro สร้างสรรค์กราฟิกแคมเปญและโซเชียลมีเดียด้วย Photoshop และ Illustrator"
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "ผลงาน",
+    "title": "ผลงาน<em>คัดสรร</em>",
+    "sub": "ผสมผสานงาน UX Research, Product Design, Content Strategy และงานสร้างสรรค์",
+    "filter_all": "ทั้งหมด",
+    "filter_ux": "UX / Figma",
+    "filter_content": "คอนเทนต์",
+    "filter_design": "ดีไซน์",
+    "projects": [
+      {
+        "emoji": "🎧",
+        "thumb_label": "UX Research",
+        "thumb_color": "linear-gradient(135deg,#fde8d4,#f4a46c)",
+        "title": "HearAround App — Case Study",
+        "desc": "UX Research และออกแบบครบวงจรสำหรับแอปเสียง รวมถึง User Interview, Empathy Map, Wireframe และ Usability Testing",
+        "tags": ["UX Research", "Figma", "Prototype"],
+        "cat": "ux",
+        "link": "#"
+      },
+      {
+        "emoji": "🍽️",
+        "thumb_label": "Responsive Design",
+        "thumb_color": "linear-gradient(135deg,#d4e8fd,#378add)",
+        "title": "MealFlix — Web & App Design",
+        "desc": "ออกแบบเว็บและแอปมือถือแบบ Responsive สำหรับแพลตฟอร์มอาหาร/สตรีมมิง เน้น Visual Hierarchy และ Mobile-first",
+        "tags": ["UI Design", "Figma", "Responsive"],
+        "cat": "ux",
+        "link": "#"
+      },
+      {
+        "emoji": "💬",
+        "thumb_label": "UX Writing",
+        "thumb_color": "linear-gradient(135deg,#e1f5ee,#1d9e75)",
+        "title": "UX Writing Practice",
+        "desc": "ตัวอย่าง UX Writing — Error Message, Onboarding Copy, Tooltip, Empty State และ Push Notification",
+        "tags": ["UX Writing", "Microcopy", "Content Design"],
+        "cat": "ux content",
+        "link": "#"
+      },
+      {
+        "emoji": "📰",
+        "thumb_label": "Content",
+        "thumb_color": "linear-gradient(135deg,#fbeaf0,#d4537e)",
+        "title": "บทความออนไลน์",
+        "desc": "บทความที่ปรับแต่ง SEO ครอบคลุมบันเทิง ไลฟ์สไตล์ และข่าวองค์กร เผยแพร่บน one31.net",
+        "tags": ["SEO", "Copywriting", "Editorial"],
+        "cat": "content",
+        "link": "#"
+      },
+      {
+        "emoji": "📱",
+        "thumb_label": "Social Media",
+        "thumb_color": "linear-gradient(135deg,#eaf3de,#639922)",
+        "title": "คอนเทนต์โซเชียลมีเดีย",
+        "desc": "กลยุทธ์คอนเทนต์หลายแพลตฟอร์ม — คอนเทนต์เทรนด์ที่สร้าง Reach กว่า 1.1 ล้าน",
+        "tags": ["Social Media", "Copywriting", "Strategy"],
+        "cat": "content",
+        "link": "#"
+      },
+      {
+        "emoji": "🔔",
+        "thumb_label": "Push Notifications",
+        "thumb_color": "linear-gradient(135deg,#faeeda,#ef9f27)",
+        "title": "การเขียน Push Notification",
+        "desc": "ข้อความ Push Notification ที่มี Conversion Rate สูงสำหรับแอป one31 เพื่อกระตุ้น Open Rate",
+        "tags": ["UX Writing", "Copywriting", "Push"],
+        "cat": "content",
+        "link": "#"
+      },
+      {
+        "emoji": "🖼️",
+        "thumb_label": "Graphic Design",
+        "thumb_color": "linear-gradient(135deg,#eeedfe,#7f77dd)",
+        "title": "ผลงานกราฟิกดีไซน์",
+        "desc": "กราฟิกโซเชียลมีเดีย งานแคมเปญ และคอนเทนต์แบรนด์ด้วย Photoshop และ Illustrator",
+        "tags": ["Photoshop", "Illustrator", "Brand"],
+        "cat": "design",
+        "link": "#"
+      },
+      {
+        "emoji": "🌐",
+        "thumb_label": "CMS",
+        "thumb_color": "linear-gradient(135deg,#f1efe8,#888780)",
+        "title": "การจัดการคอนเทนต์เว็บไซต์",
+        "desc": "จัดการคอนเทนต์เว็บไซต์ครบวงจรผ่าน WordPress ตั้งแต่เผยแพร่ กำหนดเวลา จนถึงควบคุมคุณภาพกับทีม",
+        "tags": ["WordPress", "CMS", "Editorial"],
+        "cat": "content",
+        "link": "#"
+      }
+    ]
+  },
+  "certificates": {
+    "eyebrow": "ใบรับรอง",
+    "title": "เรียนรู้<em>ตลอดเวลา</em>",
+    "items": [
+      { "icon": "🎓", "title": "Google UX Design Certificate", "sub": "Coursera · 2023" },
+      { "icon": "📊", "title": "Google Analytics", "sub": "Google · การตลาดดิจิทัล" },
+      { "icon": "💻", "title": "วท.บ. เทคโนโลยีสารสนเทศ — เกรดเฉลี่ย 3.90", "sub": "มหาวิทยาลัยกรุงเทพ · ทุนประกายเพชร" }
+    ]
+  },
+  "contact": {
+    "eyebrow": "ติดต่อ",
+    "quote": "มาสร้างสิ่งที่<em>มีความหมาย</em>ด้วยกัน",
+    "sub": "ยินดีรับพิจารณาตำแหน่ง UX Design, Content Strategy และการร่วมงานสร้างสรรค์ ตั้งอยู่ในกรุงเทพฯ พร้อมสำหรับทั้งงาน Remote และ On-site",
+    "link1_title": "ดาวน์โหลด Resume",
+    "link1_sub": "Nawapon-Saen_resume2023.pdf",
+    "link2_title": "ส่งอีเมล",
+    "link2_sub": "เริ่มต้นการสนทนา",
+    "link3_title": "LinkedIn",
+    "link3_sub": "เชื่อมต่อกัน"
+  },
+  "footer": {
+    "copy": "© 2024 นวพร แสงทอง · Nawaporn Saengthong",
+    "back_top": "กลับด้านบน ↑"
+  }
+}
